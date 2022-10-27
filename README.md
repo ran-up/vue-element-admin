@@ -3,7 +3,7 @@
 ```bash
 
 # enter the project directory
-cd xiaoxing
+cd vue-element-admin
 
 # install dependency
 npm install
